@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640132878082",
+    "firebase_url": "https://fir-tutorial-f773f.firebaseio.com",
+    "project_id": "fir-tutorial-f773f",
+    "storage_bucket": "fir-tutorial-f773f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640132878082:android:bc7cfca9954855f740bc1b",
+        "android_client_info": {
+          "package_name": "augustana.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640132878082-19hfgno86q29si2h4fo66m5unoq96pu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "augustana.firebasetutorial",
+            "certificate_hash": "e7703ff25b4d78752abdad69f6e209b47bac69ec"
+          }
+        },
+        {
+          "client_id": "640132878082-m4934q0anbmdoff0f90ksat16uk5sslr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQFx9Q1WwPzIY3oPindZ1y19ourDYbEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640132878082-m4934q0anbmdoff0f90ksat16uk5sslr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
